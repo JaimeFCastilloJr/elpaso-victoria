@@ -4,8 +4,8 @@
     margin: auto;
     padding: auto;
     position: relative;
-    width: 425px;
-    height: 550px;
+    width: 332px;
+    height: 462px;
     transition: transform 0.5s;
 }
 
@@ -102,3 +102,4 @@ i {
     justify-content: center;
     margin: auto;
 }
+
